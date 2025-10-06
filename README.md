@@ -1,4 +1,4 @@
-# 🧩 MetadataExtractor Tool
+# 🧩 MetadataView Tool
 
 Dosyaların EXIF ve diğer metadata verilerini kolayca görüntülemenizi sağlayan güçlü bir **C# (.NET 8.0)** uygulamasıdır.  
 Basit bir arayüz üzerinden yalnızca bir dosya seçerek hem özet (Simple) hem de detaylı (Full) metadata bilgilerine erişmenizi sağlar.
